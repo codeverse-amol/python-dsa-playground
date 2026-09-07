@@ -25,7 +25,7 @@ print(count_number(num))
 
 # count using log
 
-from math import *
+from math import *  # type: ignore
 
 def count_digits(num):
 
