@@ -22,3 +22,5 @@ print(is_palindrome(num))
 
 
 
+# TC = O(log10(N))
+# SC = O(1)
